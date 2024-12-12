@@ -20,3 +20,4 @@ The output of execution results are available in the notebook. In case some woul
    - conda 24.5.0,
    - Python 3.12.4
    - scikit-elm 0.21a0
+4. Use the optimal hyperparameters obtained in first file to build optimal models in second and third file, i.e., for cross validation and model evaluation.
